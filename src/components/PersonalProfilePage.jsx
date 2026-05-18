@@ -66,7 +66,7 @@ export default function PersonalProfilePage() {
               </div>
 
               <div className="border rounded-2xl p-4 hover:shadow-md transition">
-                <h3 className="text-xl font-semibold">Hospital Integration</h3>
+                <h3 className="text-xl font-semibold">Client Pharmacy Website Integration</h3>
                 <p className="text-gray-600 mt-1">
                   Experience integrating healthcare systems and ETL data processes.
                 </p>
