@@ -20,10 +20,13 @@ export default function PersonalProfilePage() {
           <section>
             <h2 className="text-2xl font-semibold mb-3">About Me</h2>
             <p className="text-gray-700 leading-relaxed">
-              I am a software developer with experience in PowerBuilder,
-              database systems, QA manual testing, and ETL integration.
-              Currently exploring modern web development using JavaScript,
-              Node.js, React, and Vite.
+              Software Developer with broad experience in full-cycle software development, system analysis,
+implementation, QA manual testing, and application support across enterprise environments.
+Strong background in enterprise systems including Pharmacy System, ERP, HRIS, inventory, POS,
+and manufacturing systems. Experienced in ETL integration across multiple business systems and
+databases. Highly experienced in PowerBuilder development, C#, SQL databases, and currently exploring modern web development 
+using JavaScript, Node.js, React, and Vite. Proven ability to deliver scalable business applications 
+ensure data integrity through system integration, and provide technical support in multi-cultural environments.
             </p>
           </section>
 
