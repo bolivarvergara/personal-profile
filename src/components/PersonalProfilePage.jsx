@@ -4,7 +4,6 @@ export default function PersonalProfilePage() {
       <div className="bg-white shadow-2xl rounded-3xl max-w-3xl w-full overflow-hidden">
         <div className="bg-blue-600 text-white p-10 text-center">
           <img
-           /* src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" */
             src="/1000018147.jpeg"
             alt="Profile"
             className="w-32 h-32 rounded-full mx-auto border-4 border-white shadow-lg"
