@@ -29,6 +29,21 @@ export default function PersonalProfilePage() {
             </p>
           </section>
 
+           <section>
+            <h2 className="text-2xl font-semibold mb-3">Project Experience Summary</h2>
+            <p className="text-gray-700 leading-relaxed">
+              Designed, developed, and maintained enterprise-level applications for healthcare, manufacturing, and business operations, including pharmacy systems, inventory systems, ERP modules, HRIS, payroll, POS, and ticketing systems.
+              Developed and supported pharmacy systems for U.S. healthcare clients, ensuring system reliability, data accuracy, and performance using PowerBuilder and Sybase SQL databases.
+              Built and deployed modern web applications using React.js, Node.js, and Vite, including internal tools and business applications to improve workflow efficiency and system accessibility.
+              Managed full development and version control workflows using Jira, Git and GitHub, including repository management, branching, commits, and collaboration practices.
+              Deployed and hosted web applications using Vercel and GitHub Pages, enabling continuous deployment and fast delivery of frontend applications.
+              Performed manual QA testing, debugging, and system validation, ensuring stability and functional correctness across enterprise systems.
+              Conducted system analysis, code reviews, and performance optimization, improving application efficiency and maintaining clean, maintainable codebases.
+              Managed database operations including backup, recovery, and ETL processing using MS SQL Server and Sybase environments.
+              Provided end-to-end application support and client communication using Jira, email, and remote support tools, ensuring timely issue resolution and system uptime.
+              Participated in full Software Development Life Cycle (SDLC) including requirement analysis, system design, development, testing, deployment, and production support.           
+            </p> 
+          </section>
           <section>
             <h2 className="text-2xl font-semibold mb-3">Skills</h2>
 
